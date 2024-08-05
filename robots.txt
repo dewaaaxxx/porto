@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.xml-sitemaps.com/download/caliph.my.id-3d9e9ebd8/sitemap.xml?view=1
